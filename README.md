@@ -6,7 +6,7 @@ To run the application open a shell, go to target directory ../oldfashionpound/t
 java -cp  oldfashionpound-0.0.1-SNAPSHOT.jar com.giacomo.euris.main.MainOldFashionPound  
 You can also run it from Eclipse, or another editor  
 
-You can run junit tests from Eclipse (or your editor) or from shell by launching maven build, go in pom.xml location: ../oldfashionpound and type:  
+You can run junit tests from Eclipse (or your editor) or from shell by launching maven build, go in pom.xml directory location: cd ../oldfashionpound and type:  
 mvn clean install  
 
 You have to put maven directory in bash $PATH environment variable  
