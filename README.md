@@ -10,4 +10,5 @@ You can run junit tests from Eclipse (or your editor) or from shell by launching
 mvn clean install  
 
 You have to put maven directory in bash $PATH environment variable  
-You can also run tests from Eclipse, they are in package com.giacomo.euris.test
+You can also run tests from Eclipse, they are in package com.giacomo.euris.test  
+JDK version required: at least Java 8
